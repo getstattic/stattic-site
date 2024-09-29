@@ -1,2 +1,2 @@
-# stattic-site
-Website files for stattic.site
+# Stattic Site
+Website files for [stattic.site](https://stattic.site)
